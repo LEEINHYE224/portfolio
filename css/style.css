@@ -10,6 +10,7 @@ li, ol, ul {
 #navber{
   display: flex;
   justify-content: center;
+  overflow: hidden;
 }
 
 a {
@@ -89,7 +90,7 @@ header .container {
 
 /********************* 링크  ****************/
 
-.blank {
+/* .blank {
   outline: 3px solid transparent;
   width: 530px;
   height: 340px;
@@ -107,4 +108,4 @@ header .container {
   top: 6590px;
   right: 1050px;
   z-index: 999;
-}
+} */
