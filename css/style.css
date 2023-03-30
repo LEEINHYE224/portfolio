@@ -90,8 +90,8 @@ header .container {
 
 /********************* 링크  ****************/
 
-/* .blank {
-  outline: 3px solid transparent;
+.link01 {
+  outline: 3px solid red;
   width: 530px;
   height: 340px;
   position: absolute;
@@ -100,12 +100,12 @@ header .container {
   z-index: 999;
 }
 
-.JAPAN {
-  outline: 3px solid transparent;
+.link02 {
+  outline: 3px solid #000;
   width: 390px;
   height: 390px;
   position: absolute;
   top: 6590px;
   right: 1050px;
   z-index: 999;
-} */
+}
