@@ -30,6 +30,7 @@ button:hover {
 
 html {
   scroll-behavior: smooth;
+  width: 100vw;
 }
 
 /********************* main_visual ****************/
@@ -91,7 +92,7 @@ header .container {
 /********************* 링크  ****************/
 
 .link01 {
-  outline: 3px solid red;
+  outline: 3px solid transparent;
   width: 530px;
   height: 340px;
   position: absolute;
@@ -101,7 +102,7 @@ header .container {
 }
 
 .link02 {
-  outline: 3px solid #000;
+  outline: 3px solid transparent;
   width: 390px;
   height: 390px;
   position: absolute;
@@ -109,3 +110,4 @@ header .container {
   right: 1050px;
   z-index: 999;
 }
+
